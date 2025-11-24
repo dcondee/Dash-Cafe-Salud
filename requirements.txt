@@ -5,3 +5,6 @@ pandas
 scikit-learn
 gunicorn
 numpy
+matplotlib
+scipy
+seaborn
